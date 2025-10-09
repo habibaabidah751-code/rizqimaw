@@ -10,7 +10,7 @@ body {
   widht: 300px;
   margin: 50px auto; /*jarak kesuluruhan*/
   padding: 20px;
-  background-color: white;
+  background-color: blue;
   border-radius: 20px; /*membuat sudut menjadi melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
   text-align: center;
