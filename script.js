@@ -1,5 +1,4 @@
-// Menambahkan event listener pada tombol tersebut
-tombolSapa.addEventListener('click', function() {
-  // Menampilkan alert ketika tombol diklik
-  alert('halo! terima kasih sudah berkunjung!');
+const tombolsapa = document. getElementById('sapa Button');
+tombolsapa.addEventListener('click', function() {
+  alert('halo! thank you for watching!');
 });
