@@ -1,0 +1,17 @@
+body {
+    background-color: #245643; /* Warna kuning cerah
+    font-family: Arial, sans-serif; 
+      color: #86A6DE;
+}
+.kartu -profil img {
+  widht: 150px;
+  border-radius: 50%;
+.kartu-profil {
+  widht: 300px;
+  margin: 50px auto; /*jarak kesuluruhan*/
+  padding: 20px;
+  background-color: white;
+  border-radius: 20px; /*membuat sudut menjadi melengkung*/
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
+  text-align: center;
+}
