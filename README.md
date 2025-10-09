@@ -1,1 +1,2 @@
-# rizqimaw
+# rizqimaw-
+jangan gampang TERLENA
